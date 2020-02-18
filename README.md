@@ -22,7 +22,7 @@ Best font-family settings for Chinese websites. 最适合中文网站的字体�
 ## My Practices
 | Device | CSS |
 | --- | --- |
-| Desktop or Responsive | ``font-family: system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", 'Segoe UI', Roboto, "PingFang SC", 'Hiragino Sans GB', "Microsoft YaHei", 微软雅黑, "Source Han Sans SC", "Noto Sans CJK SC", "WenQuanYi Micro Hei", Heiti, 黑体, sans-serif;`` |
+| Desktop or Responsive | ``font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", 微软雅黑, "Source Han Sans SC", "Noto Sans CJK SC", "WenQuanYi Micro Hei", Heiti, 黑体, sans-serif;`` |
 | Mobile | ``font-family: -apple-system, "Helvetica Neue", "PingFang SC", sans-serif;`` |
 
 ## Author
